@@ -28,7 +28,7 @@ Short class description:
 > AI tools are everywhere, but understanding how they work opens very different creative possibilities.  
 > This module explores the open-source roots of ML/AI, from neural-network foundations to current tools and practices.  
 > Through hands-on experimentation with open-source frameworks, we will move beyond proprietary interfaces and develop independent creative workflows.
->        
+>
 > The class ends with a final project with transparent process, documentation, and code.
 
 ## What you are going to learn
@@ -53,11 +53,11 @@ Short class description:
 
 The class is composed from independent block repositories added in `content/blocks/` as git submodules.
 
-| Week | Block                 | Topic                                           | Content                                          | Slides                                                           |
-| ---- | --------------------- | ----------------------------------------------- | ------------------------------------------------ | ---------------------------------------------------------------- |
-| 01   | `block-ai-intro-core` | AI/ML/DL foundations, history, and key concepts | [content](./blocks/block-ai-intro-core/) | [slides](https://subdomain.yourdomain.com/slides-ai-intro-core/) |
-| 02   | `block-...`           | TBA                                             | [...](./blocks/block-.../)               | [slides-...](https://subdomain.yourdomain.com/slides-.../)       |
-| 03+  | `block-...`           | TBA                                             | [...](./blocks/block-.../)               | [slides-...](https://subdomain.yourdomain.com/slides-.../)       |
+| Week | Block                 | Topic                                                                            |
+| ---- | --------------------- | -------------------------------------------------------------------------------- |
+| 01   | `block-ai-intro-core` | [AI/ML/DL foundations, history, and key concepts](./blocks/block-ai-intro-core/) |
+| 02   | `block-...`           | TBA                                                                              |
+| 03+  | `block-...`           | TBA                                                                              |
 
 Notes:
 

@@ -19,9 +19,9 @@ Welcome to the class Computation Perception Extended - F26
 
 ## Course Overview
 
-**Format:** Weekly sessions + guided self-study + final project
-**Audience:** Students in art, design, and creative technology
-**Prerequisites:** No advanced ML background required (basic coding literacy is recommended)
+**Format:** Weekly sessions + guided self-study + final project  
+**Audience:** Students in art, design, and creative technology  
+**Prerequisites:** No advanced ML background required (basic coding literacy is recommended)  
 
 Short class description:
 

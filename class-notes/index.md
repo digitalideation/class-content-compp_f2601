@@ -9,7 +9,7 @@ tags:
 
 # Class Notes
 
-Use this folder for class-specific notes (session recaps, announcements, reminders, adaptations).
+This folder is used for specific notes (session recaps, announcements, reminders, adaptations).
 
 ## Sessions
 

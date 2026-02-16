@@ -1,5 +1,5 @@
 ---
-title: "Syllabus — Computation Perception (F2601)"
+title: "Syllabus"
 description: "Detailed syllabus, evaluation, and policies"
 draft: false
 tags:
@@ -7,7 +7,7 @@ tags:
   - class
 ---
 
-# Syllabus — Computation Perception (F2601)
+# Syllabus
 
 ## Course Information
 

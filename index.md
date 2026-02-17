@@ -21,7 +21,7 @@ Welcome to the class Computation Perception Extended - F26
 
 **Format:** Weekly sessions + guided self-study + final project  
 **Audience:** Students in art, design, and creative technology  
-**Prerequisites:** No advanced ML background required (basic coding literacy is recommended)  
+**Prerequisites:** No advanced ML background required (basic coding literacy is recommended)
 
 Short class description:
 
@@ -53,11 +53,11 @@ Short class description:
 
 The class is composed from independent block repositories added in `content/blocks/` as git submodules.
 
-| Week | Block                 | Topic                                                                            |
-| ---- | --------------------- | -------------------------------------------------------------------------------- |
-| 01   | `block-ai-intro-core` | [AI/ML/DL foundations, history, and key concepts](./blocks/block-ai-intro-core/) |
-| 02   | `block-...`           | TBA                                                                              |
-| 03+  | `block-...`           | TBA                                                                              |
+| Week | Block                 | Topic                                                                            | Recording                                                                                                              |
+| ---- | --------------------- | -------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| 01   | `block-ai-intro-core` | [AI/ML/DL foundations, history, and key concepts](./blocks/block-ai-intro-core/) | [🎞️](https://hslu.zoom.us/rec/share/AUlnUTWCQz2hhOnde1nh00neZ2cK5rGXa-XpM5dPtvfR_zOziP2HAtLArdetHtQ6.Ama_ZQrQ0LA-PjvW) |
+| 02   | `block-...`           | TBA                                                                              | TBA                                                                                                                    |
+| 03+  | `block-...`           | TBA                                                                              | TBA                                                                                                                    |
 
 Notes:
 

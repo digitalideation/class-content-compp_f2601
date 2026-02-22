@@ -48,7 +48,7 @@ The class is composed from independent block repositories added in `content/bloc
 | Week | Block                 | Topic                                                                            | Recording                                                                                                              |
 | ---- | --------------------- | -------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
 | 01   | `block-ai-intro-core` | [AI/ML/DL foundations, history, and key concepts](./blocks/block-ai-intro-core/) | [🎞️](https://hslu.zoom.us/rec/share/AUlnUTWCQz2hhOnde1nh00neZ2cK5rGXa-XpM5dPtvfR_zOziP2HAtLArdetHtQ6.Ama_ZQrQ0LA-PjvW) |
-| 02   | `block-...`           | TBA                                                                              | TBA                                                                                                                    |
+| 02   | `block-ai-image-gen`  | [AI/ML/DL image generation](./blocks/block-ai-image-generation/)                 | TBA                                                                                                                    |
 | 03+  | `block-...`           | TBA                                                                              | TBA                                                                                                                    |
 
 Notes:

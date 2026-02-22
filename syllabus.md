@@ -64,6 +64,8 @@ The module emphasizes durable knowledge and core principles over short-term flue
 
 ### Academic Integrity
 
+> [_(Inspired by Golan Levin's 2020 CMU class)_](https://courses.ideate.cmu.edu/60-212/f2020/syllabus/academic-integrity/)
+
 Credit is a central value in open-source and commons-based creative practice. You are expected to cite the source of any code, model, dataset, or external resource you use.
 
 Guidelines:

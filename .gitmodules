@@ -1,3 +1,6 @@
 [submodule "blocks/block-ai-intro-core"]
 	path = blocks/block-ai-intro-core
 	url = git@github.com:gu-ma/block-ai-intro-core.git
+[submodule "blocks/block-ai-image-generation"]
+	path = blocks/block-ai-image-generation
+	url = git@github.com:gu-ma/block-ai-image-generation.git

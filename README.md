@@ -49,7 +49,7 @@ The class is composed from independent block repositories added in `content/bloc
 | ---- | --------------------- | -------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
 | 01   | `block-ai-intro-core` | [AI/ML/DL foundations, history, and key concepts](./blocks/block-ai-intro-core/) | [🎞️](https://hslu.zoom.us/rec/share/AUlnUTWCQz2hhOnde1nh00neZ2cK5rGXa-XpM5dPtvfR_zOziP2HAtLArdetHtQ6.Ama_ZQrQ0LA-PjvW) |
 | 02   | `block-ai-image-gen`  | [AI/ML/DL image generation](./blocks/block-ai-image-generation/)                 | [🎞️](https://hslu.zoom.us/rec/share/8a5BGqT52d9VVOKIn-kzsU8HKVVyJuMPyYB53h31NWNGs5tRXA_-mNL1d4h85Mzo.V6mCCV4TfnW2iYTQ)                                                                                                                    |
-| 03+  | `block-...`           | TBA                                                                              | TBA                                                                                                                    |
+| 03   | `block-ai-text-generation` | [AI/ML/DL text generation](./blocks/block-ai-text-generation/)                   | TBA                                                                                                                    |
 
 Notes:
 

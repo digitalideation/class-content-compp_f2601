@@ -53,12 +53,13 @@ Short class description:
 
 The class is composed from independent block repositories added in `content/blocks/` as git submodules.
 
-| Week | Block                      | Topic                                                                            | Recording                                                                                                              |
-| ---- | -------------------------- | -------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| 01   | `block-ai-intro-core`      | [AI/ML/DL foundations, history, and key concepts](./blocks/block-ai-intro-core/) | [🎞️](https://hslu.zoom.us/rec/share/AUlnUTWCQz2hhOnde1nh00neZ2cK5rGXa-XpM5dPtvfR_zOziP2HAtLArdetHtQ6.Ama_ZQrQ0LA-PjvW) |
-| 02   | `block-ai-image-gen`       | [AI/ML/DL image generation](./blocks/block-ai-image-generation/)                 | [🎞️](https://hslu.zoom.us/rec/share/8a5BGqT52d9VVOKIn-kzsU8HKVVyJuMPyYB53h31NWNGs5tRXA_-mNL1d4h85Mzo.V6mCCV4TfnW2iYTQ) |
-| 03   | `block-ai-text-generation` | [AI/ML/DL text generation](./blocks/block-ai-text-generation/)                   | [🎞️](https://hslu.zoom.us/rec/share/Mldyajao-4mhWnG3Ua9t1djhGevnQy1zl8yOHSBWpj_cxEHOIZdEFfEO3R_89xul.Y2w_mN4SWsaexrSf) |
-| 04   | `---`                      | Getting started with Replicate                                                   |                                                                                                                        |
+| Week | Block                       | Topic                                                                            | Recording                                                                                                              |
+| ---- | --------------------------- | -------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| 01   | `block-ai-intro-core`       | [AI/ML/DL foundations, history, and key concepts](./blocks/block-ai-intro-core/) | [🎞️](https://hslu.zoom.us/rec/share/AUlnUTWCQz2hhOnde1nh00neZ2cK5rGXa-XpM5dPtvfR_zOziP2HAtLArdetHtQ6.Ama_ZQrQ0LA-PjvW) |
+| 02   | `block-ai-image-gen`        | [AI/ML/DL image generation](./blocks/block-ai-image-generation/)                 | [🎞️](https://hslu.zoom.us/rec/share/8a5BGqT52d9VVOKIn-kzsU8HKVVyJuMPyYB53h31NWNGs5tRXA_-mNL1d4h85Mzo.V6mCCV4TfnW2iYTQ) |
+| 03   | `block-ai-text-generation`  | [AI/ML/DL text generation](./blocks/block-ai-text-generation/)                   | [🎞️](https://hslu.zoom.us/rec/share/Mldyajao-4mhWnG3Ua9t1djhGevnQy1zl8yOHSBWpj_cxEHOIZdEFfEO3R_89xul.Y2w_mN4SWsaexrSf) |
+| 04   | `---`                       | Getting started with Replicate                                                   |                                                                                                                        |
+| 05   | `block-ai-audio-generation` | [AI/ML/DL audio generation](./blocks/block-ai-audio-generation/)                 |                                                                                                                        |
 
 Notes:
 

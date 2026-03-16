@@ -7,3 +7,6 @@
 [submodule "blocks/block-ai-text-generation"]
 	path = blocks/block-ai-text-generation
 	url = git@github.com:gu-ma/block-ai-text-generation.git
+[submodule "blocks/block-ai-audio-generation"]
+	path = blocks/block-ai-audio-generation
+	url = git@github.com:gu-ma/block-ai-audio-generation.git

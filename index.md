@@ -58,8 +58,9 @@ The class is composed from independent block repositories added in `content/bloc
 | 01   | `block-ai-intro-core`       | [AI/ML/DL foundations, history, and key concepts](./blocks/block-ai-intro-core/) | [🎞️](https://hslu.zoom.us/rec/share/AUlnUTWCQz2hhOnde1nh00neZ2cK5rGXa-XpM5dPtvfR_zOziP2HAtLArdetHtQ6.Ama_ZQrQ0LA-PjvW) |
 | 02   | `block-ai-image-gen`        | [AI/ML/DL image generation](./blocks/block-ai-image-generation/)                 | [🎞️](https://hslu.zoom.us/rec/share/8a5BGqT52d9VVOKIn-kzsU8HKVVyJuMPyYB53h31NWNGs5tRXA_-mNL1d4h85Mzo.V6mCCV4TfnW2iYTQ) |
 | 03   | `block-ai-text-generation`  | [AI/ML/DL text generation](./blocks/block-ai-text-generation/)                   | [🎞️](https://hslu.zoom.us/rec/share/Mldyajao-4mhWnG3Ua9t1djhGevnQy1zl8yOHSBWpj_cxEHOIZdEFfEO3R_89xul.Y2w_mN4SWsaexrSf) |
-| 04   | `---`                       | Getting started with Replicate                                                   | [🎞️](https://hslu.zoom.us/rec/share/DVlJQJZaeHh9Z6QVWoMTcDGRxxRswSjmr05sm72E6zfkhdhvUmRIwqahMVf6wboW.RwRvblbwuW0CHpCE)   |
+| 04   | `---`                       | Getting started with Replicate                                                   | [🎞️](https://hslu.zoom.us/rec/share/DVlJQJZaeHh9Z6QVWoMTcDGRxxRswSjmr05sm72E6zfkhdhvUmRIwqahMVf6wboW.RwRvblbwuW0CHpCE) |
 | 05   | `block-ai-audio-generation` | [AI/ML/DL audio generation](./blocks/block-ai-audio-generation/)                 | [🎞️](https://hslu.zoom.us/rec/share/sP6rqFSxtsVzbfiyJLEoe0SaGyttHu2AEoesC8RQdnGlC1wiEQMII3dstpbDIEuJ.Io6ePI5-zYblY7kq) |
+| 06   | `block-ai-browser`          | [AI/ML/DL in the browser](./blocks/block-ai-browser/)                          |                                                                                                                        |
 
 Notes:
 
